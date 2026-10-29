@@ -18,6 +18,11 @@ Acredito que a qualidade de software vai além de achar bugs: trata-se de **prev
 
 ---
 
+
+
+
+---
+
 ## 🧪 Resumo dos Testes (Test Suite)
 
 A suíte cobre os 5 endpoints principais da API, com **13 asserções automatizadas** em JavaScript (Chai.js) executadas via Postman Collection Runner.
