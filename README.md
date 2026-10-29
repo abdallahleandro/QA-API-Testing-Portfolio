@@ -41,13 +41,15 @@ A suíte cobre os 5 endpoints principais da API, com **13 asserções automatiza
 | **Tempo Médio de Resposta** | ~223 ms |
 | **Status Geral** | 🟢 **Aprovado (PASS)** |
 
+### 📸 Evidência de Execução
+![Relatório do Collection Runner](./runner-report.png)
+
 ---
 
 ## 📂 Estrutura do Repositório
 
 - `FakeStoreAPI-QA-Portfolio.postman_collection.json`: Arquivo da Collection do Postman pronto para importar.
 - `evidences/`: Pasta com os prints de tela (evidências) da execução verde no Postman.
-- `docs/` *(opcional)*: Documentação detalhada (Plano de Testes e Relatórios).
 
 ## 🚀 Como executar este projeto
 
